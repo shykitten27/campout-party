@@ -1,0 +1,19 @@
+body { color:  #336699 ; font-family: "Comic Sans MS"; background:  #FFFFFF ; }
+h3, h4 { color:  #336699 ; text-align: center ; }
+h1, h2 { color:  #000000 ; text-align: right ; }
+
+hr { width: 95%;  size: 1 ; }
+table { width: 50%; }  
+td {  vertical-align: middle; text-align: left ;}
+tr { color: #000000; font-size: 10pt;}
+th { color: #660066; font-size: 14pt; text-align: left; }
+pre {color: #E26200; font-weight: bold; }
+@page landscape { size: landscape; }
+#labelID { background-color:  #ccddee; font-size: 9pt;}
+#menuId { font-size: 9pt; color: #660066;}
+#bodyId { margin-left: 4%; margin-right: 4%; font-size: 10pt; }
+#captionId { font-size: 9pt; color: #000000; }
+#wdcDetailsId { font-size: 10pt; color: #000000; background-color: #cc99cc;  }
+#wdcDetailsLabel { font-size: 9pt; color; #000000;
+background-color: #cc99cc; }
+#hdgId { font-size: 16pt; color: #336699;  }
